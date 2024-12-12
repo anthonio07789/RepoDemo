@@ -63,7 +63,7 @@ public class MenuAdmin1 extends JFrame {
         gbc_btnAdminLibro.gridy = 1;
         contentPane.add(btnAdminLibro, gbc_btnAdminLibro);
 
-        // Botón Administrar Usuarioss
+        // Botón Administrar Usuarios
         JButton btnAdministrarUsuario = new JButton("👥 Administrar Usuarios");
         btnAdministrarUsuario.setFont(new Font("Tahoma", Font.BOLD, 18));
         btnAdministrarUsuario.setBackground(new Color(173, 216, 230)); // Fondo azul claro
