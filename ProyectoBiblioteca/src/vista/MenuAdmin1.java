@@ -15,6 +15,7 @@ public class MenuAdmin1 extends JFrame {
 
 	
 	//HOLA BB SE QUE CONTIGO NO SIRVE LA LABIA Y TE CREES MUY SABIA PERO TE VAS A CAER
+	///Miau
     private static final long serialVersionUID = 1L;
     private JPanel contentPane;
 
