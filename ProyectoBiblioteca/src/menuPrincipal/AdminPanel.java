@@ -11,6 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+//hola
 public class AdminPanel extends JFrame {
 	public AdminPanel() {
 		setTitle("Biblioteca Goya - Panel de Administrador");
